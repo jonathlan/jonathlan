@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi there! 👋
+This is Jonathan and I 💗 learning. In this profile you will find repositories about:
 
-<!--
-**jonathlan/jonathlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const repositories = {
+  backend: ["Java", "Ruby", "C++", "C#", "JavaScript"],
+  frontend: ["HTML", "CSS", "Bootstrap", "JavaScript"],
+  quality: ["Selenium", "JUnit"]
+}
+```
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="right">
+ <tr><td><a href="README.md">🇺🇸 English</a></td></tr>
+  <tr><td><a href="README_es.md">🇪🇸 Español</a></td></tr>
+ <tr><td><a href="README_fr.md">🇫🇷 Français</a></td></tr>
+ <tr><td><a href="README_it.md">🇮🇹 Italiano</a></td></tr>
+</table>
+
+💻 Currently working as a product manager 
+
+🌄 Nature lover 
+
+📚 Enthusiast reader 
+
+:octocat: I code for fun 
+
+🔱 Rookie entrepreneur
+
+## Contact
+- [JonathanSolis.com](https://jonathansolis.com/)
+- [@jonathlan](https://www.linkedin.com/in/jonathlan/) on LinkedIn
