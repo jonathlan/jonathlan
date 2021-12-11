@@ -1,12 +1,16 @@
 ## ¡Hola! 👋
 Me llamo Jonathan y me encanta aprender. En este perfil encontrarás repositorios sobre:
 
-```javascript
-const repositories = {
-  backend: ["Java", "Ruby", "C++", "C#", "JavaScript"],
-  frontend: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-  quality: ["Selenium", "JUnit"]
-}
+```ruby
+class Repository
+    attr_accessor :backend, :frontend, :quality
+
+    def initialize
+        @backend = ["Java", "Ruby", "C++", "C#", "JavaScript"]
+        @frontend = ["HTML", "CSS", "Bootstrap", "JavaScript"]
+        @quality = ["Selenium", "JUnit"]
+    end
+end
 ```
 
 ## Sobre mí
