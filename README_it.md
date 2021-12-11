@@ -2,10 +2,10 @@
 Mi chiamo Jonathan e amo imparare. In questo profilo troverai qualche repository di:
 
 ```javascript
-const repositories = {
-  backend: ["Java", "Ruby", "C++", "C#", "JavaScript"],
-  frontend: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-  quality: ["Selenium", "JUnit"]
+class Repositories {
+  backend = ["Java", "Ruby", "C++", "C#", "JavaScript"];
+  frontend = ["HTML", "CSS", "Bootstrap", "JavaScript"];
+  quality = ["Selenium", "JUnit"];
 }
 ```
 
