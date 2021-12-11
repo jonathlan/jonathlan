@@ -1,11 +1,11 @@
 ## Salut ! 👋
 Je m’appelle Jonathan et j'adore apprendre. Dans ce profil tu trouveras certains dépôts sur:
 
-```javascript
-const repositories = {
-  backend: ["Java", "Ruby", "C++", "C#", "JavaScript"],
-  frontend: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-  quality: ["Selenium", "JUnit"]
+```java
+class Repositories{
+    public String backend[] = {"Java", "Ruby", "C++", "C#", "JavaScript"};
+    public String frontend[] = {"HTML", "CSS", "Bootstrap", "JavaScript"};
+    public String quality[] = {"Selenium", "JUnit"};
 }
 ```
 
