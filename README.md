@@ -1,12 +1,17 @@
 ## Hi there! 👋
 This is Jonathan and I 💗 learning. In this profile you will find repositories about:
 
-```javascript
-const repositories = {
-  backend: ["Java", "Ruby", "C++", "C#", "JavaScript"],
-  frontend: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-  quality: ["Selenium", "JUnit"]
-}
+```c++
+#include <iostream>
+using std::string;
+
+class Repositories
+{
+    public:
+        string backend[5] = {"Java", "Ruby", "C++", "C#", "JavaScript"};
+        string frontend[4] = {"HTML", "CSS", "Bootstrap", "JavaScript"};
+        string quality[2] = {"Selenium", "JUnit"};
+};
 ```
 
 ## About me
